@@ -1,6 +1,6 @@
 # Towards equity-based public health measures in epidemics: a case study of COVID-19
 
-Code accompanying **Zsichla L. & Müller V.**, *Towards equity-based public health measures in epidemics: a case study of COVID-19* (Institute of Biology, ELTE Eötvös Loránd University, Budapest). [preprint / journal — **ADD link/DOI**]
+Code accompanying **Zsichla L. & Müller V.**, *Towards equity-based public health measures in epidemics: a case study of COVID-19* (Institute of Biology, ELTE Eötvös Loránd University, Budapest). [Scientific Reports — **DOI: 10.1038/s41598-026-81008-9**]
 
 The repository contains the two analyses reported in the paper. The **threshold-shift framework** derives sex-specific age thresholds under four equity objectives from age- and sex-specific COVID-19 infection fatality ratios (IFRs). The **counterfactual reconstruction** reproduces the United Kingdom's 2020–2021 winter epidemic wave and vaccination campaign and tests those predictions under realistic epidemic conditions.
 
@@ -33,7 +33,7 @@ install.packages(c("tidyverse","data.table","optimx","patchwork","ggpattern",
 
 ## Citation
 
-> Zsichla L, Müller V. Towards equity-based public health measures in epidemics: a case study of COVID-19. [journal, year — **ADD**].
+> Zsichla L, Müller V. Towards equity-based public health measures in epidemics: a case study of COVID-19. [Scientific Reports — **DOI: 10.1038/s41598-026-81008-9**].
 
 ## Contact
 
